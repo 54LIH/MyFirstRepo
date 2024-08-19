@@ -66,7 +66,7 @@ def tas_kagit_makas_Salih_Akca():
             oyun_numarasi += 1  # Oyun numarası artar ve yeni bir oyun başlar.
         else:
             print("Oynadığınız için teşekkürler!")
-            break  # Oyun sona erer
+            break  # Oyun sona erer.
 
 
 # Oyunu başlatıyoruz
